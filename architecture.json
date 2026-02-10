@@ -1,0 +1,72 @@
+{
+  "book_id": "victorian-british-surrealist-past-future",
+  "title": "The Synchronoscope's Faltering Note",
+  "tagline": "When a Victorian inventor vanishes, his daughter must navigate a world where time bleeds, keys hang in empty air, and the only instructions are a cryptic warning not to trust the herons.",
+  "target_words": 76027,
+  "actual_words": 76027,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Temporal Disruption",
+    "Inherited Enigma",
+    "The Surreal in the Domestic",
+    "The Machinery of Memory"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Key in the Air, Not the Lock",
+      "words": 6911
+    },
+    {
+      "ch": 2,
+      "title": "A Sepia Photograph of Itself",
+      "words": 6911
+    },
+    {
+      "ch": 3,
+      "title": "The Tangled Hum of Clerkenwell",
+      "words": 6911
+    },
+    {
+      "ch": 4,
+      "title": "A Pocket of Stale Velvet",
+      "words": 6911
+    },
+    {
+      "ch": 5,
+      "title": "The Crystal Heart's Faltering Note",
+      "words": 6911
+    },
+    {
+      "ch": 6,
+      "title": "The Silence That Is Not Empty",
+      "words": 6911
+    },
+    {
+      "ch": 7,
+      "title": "Between Two Doors",
+      "words": 6911
+    },
+    {
+      "ch": 8,
+      "title": "A Thought Suspended in Honey",
+      "words": 6911
+    },
+    {
+      "ch": 9,
+      "title": "The Key Turned in Air",
+      "words": 6911
+    },
+    {
+      "ch": 10,
+      "title": "The Velvety Quiet of Settled Things",
+      "words": 6911
+    },
+    {
+      "ch": 11,
+      "title": "The Silence That Cracked",
+      "words": 6911
+    }
+  ]
+}
